@@ -15,5 +15,3 @@ elif number < 0 and number < -1000000:
   print("large negative")
 elif number < 0:
   print("negative")
-
-#1 000 000
